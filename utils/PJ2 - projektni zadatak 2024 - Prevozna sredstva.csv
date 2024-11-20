@@ -1,0 +1,20 @@
+ID,Proizvodjac,Model,Datum nabavke,Cijena,Domet,Max Brzina,Opis,Vrsta
+A1,A,M1,1.5.2024.,50000,,,primjer 1,automobil
+B1,B,BM1,,3000,100,,,bicikl
+T1,T,TM1,,1000,,50,,trotinet
+A2,A,M2,16.5.2024.,35000,,,primjer 2,automobil
+B2,B,BM2,,2500,75,,,bicikl
+T2,T,TM2,,500,,30,,trotinet
+A3,A,M3,9.5.2024.,75000,,,primjer 3,automobil
+B3,B,BM3,,2700,110,,,bicikl
+B4,B,BM4,,2700,110,,,bicikl
+B5,B,BM5,,2700,110,,,bicikl
+T2,T,TM2,,500,,30,,trotinet
+T3,T,TM2,,500,,30,,trotinet
+T4,T,TM2,,500,,30,,trotinet
+T5,T,TM2,,500,,30,,trotinet
+T6,T,TM2,,500,,30,,trotinet
+T7,T,TM3,,800,,60,,trotinet
+T8,T,TM2,,500,,30,,trotinet
+T9,T,TM2,,500,,30,,trotinet
+T10,T,TM3,,800,,60,,trotinet
